@@ -1500,8 +1500,7 @@ zi	py	MC		OC	gloss	GSR	HYDZD	rad	str	Unicode
 泲	jǐ	tsejX	(ts- + -ej B)	*tsˤ[i]jʔ 	[river name]	0554-	31570.01	85	5	U+6CF2
 脊	jǐ	tsjek	(ts- + -jek D)	*[ts]ek 	spine, backbone	0852a	32070.10	130	6	U+810A
 薺	jì	dzejX	(dz- + -ej B)	*dzˤ[ə]jʔ 	Capsella bursa-pastoris	0593l	53315.11	140	14	U+85BA
-寂	jì	dzek	(dz- + -ek D)	*s-[d]ˤiwk 	"quiet
-"	1031l	20938.04	40	8	U+5BC2
+寂	jì	dzek	(dz- + -ek D)	*s-[d]ˤiwk 	quiet	1031l	20938.04	40	8	U+5BC2
 忌	jì	giH	(g- + -i C)	*m-k(r)ək-s 	warn; avoid	0953s	42270.11	61	3	U+5FCC
 暨	jì	gijH	(g- + -ij C)	*[m-k-]rəp-s 	reach to	0515o	21531.07	72	10	U+66A8
 踦	jì	gjeX	(g- + -je B)	*[g](r)ajʔ 	stand (Min dialects)	0001-	63713.04	157	8	U+8E26
@@ -1715,8 +1714,7 @@ zi	py	MC		OC	gloss	GSR	HYDZD	rad	str	Unicode
 饉	jìn	ginH	(g- + -in C)	*[g]rə[r]-s 	famine	0480r	74469.14	184	11	U+9949
 慬	jìn	gj+n	(g- + -j+n A)	*[g]ər 	courageous	0480v	42344.16	61	11	U+616C
 近	jìn	gj+nX	(g- + -j+n B)	*N-kərʔ 	near	0443g	63819.12	162	4	U+8FD1
-近	jìn	gj+nH	(g- + -j+n C)	*s-N-kərʔ-s 	"be near to (v.t.)
-"	0443g	63819.12	162	4	U+8FD1
+近	jìn	gj+nH	(g- + -j+n C)	*s-N-kərʔ-s 	be near to (v.t.)	0443g	63819.12	162	4	U+8FD1
 禁	jìn	kimH	(k- + -im C)	*kr[ə]m-s 	prohibit	0655k	42400.04	113	8	U+7981
 蓳	jìn	kj+nX	(k- + -j+n B)	*kə[r]ʔ 	(kind of vegetable)	0480t	53275.10	140	11	U+84F3
 蓳	jìn	kj+nH	(k- + -j+n C)	*kə[r]-s 	aconite	0480t	53275.10	140	11	U+84F3
@@ -3026,9 +3024,7 @@ zi	py	MC		OC	gloss	GSR	HYDZD	rad	str	Unicode
 腎	shèn	dzyinX	(dzy- + -in B)	*Cə.[g]i[n]ʔ 	kidney	0368h	32086.04	130	8	U+814E
 蜃	shèn	dzyinX	(dzy- + -in B)	*[d]ərʔ 	clam, oyster	0455m	42854.06	142	7	U+8703
 慎	shèn	dzyinH	(dzy- + -in C)	*[d]i[n]-s 	careful	0375i	42336.02	61	10	U+614E
-罧	shèn	srimH	(sr- + -im C)	*s.r[ə]mʔ-s 	to trap fish in a maze of sticks	0655-	42920.01	122	8	"U+7F67
-
-"
+罧	shèn	srimH	(sr- + -im C)	*s.r[ə]mʔ-s 	to trap fish in a maze of sticks	0655-	42920.01	122	8	U+7F67
 葚	shèn	zyimX	(zy- + -im B)	*sə-d[ə]mʔ 	mulberry fruit	0658i	53243.13	140	9	U+845A
 甥	shēng	sraeng	(sr- + -aeng A)	*s.reŋ 	SiSo or SiDa; DaHu	0812g	42578.05	100	7	U+7525
 生	shēng	sraeng	(sr- + -aeng A)	*sreŋ (MC srj- > sr-; or *s.reŋ ?)	bear, be born; live	0812a	42575.01	100	0	U+751F
@@ -3849,9 +3845,7 @@ zi	py	MC		OC	gloss	GSR	HYDZD	rad	str	Unicode
 歆	xīn	xim	(x- + -im A)	*[qʰ](r)əm 	enjoy (fragrance)	0653j	32146.12	76	9	U+6B46
 昕	xīn	xj+n	(x- + -j+n A)	*qʰər 	dawn	0443h	21491.01	72	4	U+6615
 欣	xīn	xj+n	(x- + -j+n A)	*qʰər 	rejoice	0443i	32135.12	76	4	U+6B23
-罧	xǐn	simX	(s- + -im B)	*s.r[ə]mʔ 	make a fish trap out of assembled sticks	0655-	42920.01	122	8	"U+7F67
-
-"
+罧	xǐn	simX	(s- + -im B)	*s.r[ə]mʔ 	make a fish trap out of assembled sticks	0655-	42920.01	122	8	U+7F67
 囟	xìn	sinH	(s- + -in C)	*[s]ə[r]-s 	fontanel	--	10713.03	31	3	U+56DF
 信	xìn	sinH	(s- + -in C)	*s-ni[ŋ]-s 	truthful	0384a	10165.01	9	7	U+4FE1
 釁	xìn	xinH	(x- + -in C)	*m̥rər-s 	smear with blood	0446a	10363.13	164	18	U+91C1
@@ -4203,8 +4197,7 @@ zi	py	MC		OC	gloss	GSR	HYDZD	rad	str	Unicode
 挹	yì	'jip	('- + -jip D)	*qip 	to ladle out	0683g	31883.06	64	7	U+6339
 挹	yì	'jip	('- + -jip D)	*qip 	suppress	0683g	31883.06	64	7	U+6339
 唈	yì	'op	('- + -op D)	*qˤ[ə]p 	short of breath	0683i	10630.08	30	7	U+5508
-羿	yì	ngejH	(ng- + -ej C)	*[ŋ]ˤer-s 	"(name of legendary archer)
-"	0239-	53342.05	124	3	U+7FBF
+羿	yì	ngejH	(ng- + -ej C)	*[ŋ]ˤer-s 	(name of legendary archer)	0239-	53342.05	124	3	U+7FBF
 詣	yì	ngejH	(ng- + -ej C)	*[ŋ]ˤij-s 	arrive	0552k	63968.05	149	6	U+8A63
 鷁	yì	ngek	(ng- + -ek D)	*m-ɢˤek 	kind of aquatic bird	0849f	74653.06	196	10	U+9DC1
 劓	yì	ngijH	(ng- + -ij C)	*[ŋ]rə[t]-s 	cut off the nose	0537a	10360.20	18	14	U+5293
