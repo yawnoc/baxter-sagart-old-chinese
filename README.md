@@ -6,7 +6,7 @@ from [University of Michigan], with minor (whitespace) cleanup.
 
 ## Rationale
 
-- Dropbox didn't play nice with my browser.
+- Dropbox (used to host source Excel file) didn't play nice with my browser.
 - Excel as a format is not nice.
 - Excel downloads should be [treated with caution].
 - Searchable TSVs on GitHub are nice.
